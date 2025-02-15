@@ -22,8 +22,8 @@ This tutorial shows you how to build an AI agent that:
 1. **Clone the Repository or Download the Code**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Pitcocy/ai-agent-tutorial
+   cd ai-agent-tutorial
    ```
 
 2. **Create a Virtual Environment and Activate It**
