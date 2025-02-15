@@ -1,0 +1,4 @@
+agno
+duckduckgo-search
+python-dotenv
+anthropic
